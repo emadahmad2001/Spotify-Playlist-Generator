@@ -14,7 +14,7 @@ This project generates a Spotify playlist based on a song name extracted from a 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/spotify-playlist-generator.git
+    git clone https://github.com/emadahmad2001/spotify-playlist-generator.git
     cd spotify-playlist-generator
     ```
 
